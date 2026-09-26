@@ -1,0 +1,4 @@
+- Initially thought to use ChatGPT API, but Gemini 1.5 Flash is free and faster.
+- Thought to use Flask, but FastAPI gives auto docs at /docs which is useful for demo.
+- Decided to handle duplicate user_id with 409 Conflict status - to avoid data overwrite. This is expected behavior.
+- Prompt Engineering is key - we must ask Gemini to return ONLY JSON.
