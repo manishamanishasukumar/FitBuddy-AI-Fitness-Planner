@@ -1,0 +1,3 @@
+- User wants to get a fitness plan without login.
+- User wants to understand exercises easily (sets, reps).
+- User wants to tell AI in normal English/Tamil if workout is hard.
